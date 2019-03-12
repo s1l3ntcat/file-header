@@ -117,7 +117,7 @@ Here are a list of language-to-template mappings I came up with. Feel free to ma
 |source.swift|C.tmpl|
 |source.toml|ShellScript.tmpl|
 |source.ts|C.tmpl|
-|source.s||Clojure.tmpl|
+|source.s|Clojure.tmpl|
 |source.vue|HTML.tmpl|
 |source.yaml|ShellScript.tmpl|
 |source.verilog|C.tmpl|
