@@ -54,6 +54,7 @@
   "source.toml": "ShellScript.tmpl",
   "source.ts": "C.tmpl",
   "source.vue": "HTML.tmpl",
+  "source.s": "Clojure.tmpl",
   "source.yaml": "ShellScript.tmpl",
   "source.verilog": "C.tmpl",
   "source.visualforce": "HTML.tmpl",
